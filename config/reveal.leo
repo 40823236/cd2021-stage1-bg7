@@ -92,6 +92,7 @@
 <t tx="123.20210317191029.1">   &lt;section&gt;
    &lt;h3&gt;夾頭&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="" height="275" src="./../images/螢幕擷取畫面 2021-03-16 170547.jpg" width="520"/&gt;&lt;/p&gt;
+   &lt;/section&gt;
    &lt;/section&gt;</t>
 <t tx="123.20210317212617.1">   &lt;section&gt;
    &lt;h3&gt;齒盤&lt;/h3&gt;
@@ -251,56 +252,17 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818171138.1">&lt;section&gt;
    &lt;section&gt;
     &lt;h2&gt;零件組合圖&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="" height="525" src="./../images/螢幕擷取畫面2 2021-03-17 180209.jpg" width="328"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="525" src="./../images/螢幕擷取畫面2 2021-03-17 180209.jpg" width="525"/&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
-<t tx="leo.20200818171215.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;With animations&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-
-        function SecondExample() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-
-</t>
+<t tx="leo.20200818171215.1"> &lt;section&gt;
+           &lt;h2&gt;使用SOLIDWORKS 2017模擬&lt;/h2&gt;
+            &lt;h5&gt;三爪夾頭模擬&lt;/h5&gt;
+         &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/fXdkvxeqiGM" width="520"&gt;&lt;/iframe&gt;&lt;/p&gt;
+         &lt;/section&gt;</t>
 <t tx="leo.20200818171244.1">&lt;section&gt;
-    &lt;h2&gt;Point of View&lt;/h2&gt;
-    &lt;p&gt;
-        Press &lt;strong&gt;ESC&lt;/strong&gt; to enter the slide overview.
-    &lt;/p&gt;
-    &lt;p&gt;
-        Hold down the &lt;strong&gt;alt&lt;/strong&gt; key (&lt;strong&gt;ctrl&lt;/strong&gt; in Linux) and click on any element to zoom towards it using &lt;a href="http://lab.hakim.se/zoom-js"&gt;zoom.js&lt;/a&gt;. Click again to zoom back out.
-    &lt;/p&gt;
-    &lt;p&gt;
-        (NOTE: Use ctrl + click in Linux.)
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
+            &lt;h2&gt;PDF檔案&lt;/h2&gt;
+        
+        &lt;/section&gt;</t>
 <t tx="leo.20200818171312.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
     &lt;h2&gt;Auto-Animate&lt;/h2&gt;
     &lt;p&gt;Automatically animate matching elements across slides with &lt;a href="https://revealjs.com/auto-animate/"&gt;Auto-Animate&lt;/a&gt;.&lt;/p&gt;
