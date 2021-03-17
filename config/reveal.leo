@@ -69,7 +69,7 @@
    &lt;/section&gt;</t>
 <t tx="123.20210317231217.1"> &lt;section&gt;
  &lt;h2&gt;Reveal製作&lt;/h2&gt;
- 
+     &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jvV-qoEtGEY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;
  
  
  &lt;section&gt;</t>
@@ -232,7 +232,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818171215.1"> &lt;section&gt;
            &lt;h2&gt;使用SOLIDWORKS 2017模擬&lt;/h2&gt;
             &lt;h5&gt;三爪夾頭模擬&lt;/h5&gt;
-         &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/fXdkvxeqiGM" width="520"&gt;&lt;/iframe&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/atMQNBh89T8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818171244.1">&lt;section&gt;
             &lt;h2&gt;PDF檔案&lt;/h2&gt;
