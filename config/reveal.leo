@@ -211,7 +211,7 @@ vertical: body pane on the botton</t>
         &lt;/section&gt;</t>
 <t tx="leo.20200818170636.1">&lt;section&gt;
             &lt;h2&gt;CNC 三爪夾頭&lt;/h2&gt;
-            &lt;p&gt;&lt;img alt="" height="226" src="/images/reveal.jpg" width="274"&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;img alt="" height="226" src="./../images/reveal.jpg" width="274"/&gt;&lt;/p&gt;
             &lt;h4&gt;動機:不用對中心很方便。&lt;/h4&gt;
         &lt;/section&gt;
 </t>
