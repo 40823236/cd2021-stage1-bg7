@@ -78,8 +78,7 @@
    &lt;h3&gt;斜齒輪&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="" height="171" src="./../images/零件4.png" width="501"/&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
-<t tx="123.20210317190847.1">&lt;section&gt;
-   &lt;section&gt;
+<t tx="123.20210317190847.1">   &lt;section&gt;
    &lt;h3&gt;主體&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="" height="316" src="./../images/零件1.png" width="501"/&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
@@ -256,6 +255,7 @@ vertical: body pane on the botton</t>
     &lt;h2&gt;使用小T輪將把手做動的動力傳到斜齒輪，再經由螺紋移動下齒輪及夾頭。&lt;/h2&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section&gt;
+   &lt;section&gt;
     &lt;h2&gt;零件組合圖&lt;/h2&gt;
 &lt;p&gt;&lt;img alt="" height="196" src="./../images/螢幕擷取畫面2 2021-03-17 180209.jpg" width="280"/&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
