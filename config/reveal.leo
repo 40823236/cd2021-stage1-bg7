@@ -30,6 +30,7 @@
 <v t="123.20210317191029.1"><vh>slide 5 -6</vh></v>
 </v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
+<v t="123.20210317231217.1"><vh>newHeadline</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
 </v>
@@ -66,6 +67,11 @@
    &lt;h3&gt;齒盤&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="" height="279" src="./../images/Print 3D 2021_3_11 下午 04_51_23.png" width="520"/&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
+<t tx="123.20210317231217.1"> &lt;section&gt;
+ &lt;h2&gt;Reveal製作&lt;/h2&gt;
+ 
+ 
+ &lt;/section&gt;</t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120538.1"></t>
@@ -235,6 +241,6 @@ vertical: body pane on the botton</t>
             &lt;h2&gt;心得&lt;/h2&gt;
             &lt;h4&gt;這次的分組作業跟之前的比較不一樣，建倉儲多了協同要跟組員一起維護小組倉儲，也遇到各自推送、沒有同步的問題，但到後面越做越熟練，
 對協同的操做也變比較熟悉，也重新複習了reveal的編輯，為之後的4人及8人小組做好基礎。&lt;/h4&gt;
-        &lt;/section&gt;</t>
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
