@@ -67,12 +67,10 @@
    &lt;h3&gt;齒盤&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="" height="279" src="./../images/Print 3D 2021_3_11 下午 04_51_23.png" width="520"/&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
-<t tx="123.20210317231217.1"> &lt;section&gt;
+<t tx="123.20210317231217.1">&lt;section&gt;
  &lt;h2&gt;Reveal製作&lt;/h2&gt;
      &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jvV-qoEtGEY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;
- 
- 
- &lt;/section&gt;</t>
+&lt;/section&gt;</t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120538.1"></t>
@@ -236,7 +234,6 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20200818171244.1">&lt;section&gt;
             &lt;h2&gt;PDF檔案&lt;/h2&gt;
-        
 &lt;/section&gt;</t>
 <t tx="leo.20200818171312.1"> &lt;section&gt;
             &lt;h2&gt;心得&lt;/h2&gt;
