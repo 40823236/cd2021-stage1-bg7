@@ -22,13 +22,13 @@
 <v t="leo.20200818170636.1"><vh>slide3</vh></v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh>
-<v t="123.20210317190847.1"><vh>主體</vh></v>
-<v t="123.20210317191027.1"><vh>上蓋</vh></v>
-<v t="123.20210317212617.1"><vh>齒盤</vh></v>
-<v t="123.20210317180910.1"><vh>斜齒輪</vh></v>
-<v t="123.20210317191028.1"><vh>夾頭底座</vh></v>
-<v t="123.20210317191029.1"><vh>夾頭</vh></v>
-<v t="123.20210317191029.2"><vh>套圈</vh></v>
+<v t="123.20210317190847.1"><vh>slide 5 -1</vh></v>
+<v t="123.20210317191027.1"><vh>slide 5 -2</vh></v>
+<v t="123.20210317212617.1"><vh>slide 5 -3</vh></v>
+<v t="123.20210317180910.1"><vh>slide 5 -4</vh></v>
+<v t="123.20210317191028.1"><vh>slide 5 -5</vh></v>
+<v t="123.20210317191029.1"><vh>slide 5 -6</vh></v>
+<v t="123.20210317191029.2"><vh>slide 5 -7</vh></v>
 </v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
@@ -75,26 +75,33 @@
 </vnodes>
 <tnodes>
 <t tx="123.20210317180910.1">   &lt;section&gt;
+   &lt;h3&gt;斜齒輪&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="" height="171" src="./../images/零件4.png" width="501"/&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
 <t tx="123.20210317190847.1">&lt;section&gt;
    &lt;section&gt;
+   &lt;h3&gt;主體&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="" height="316" src="./../images/零件1.png" width="501"/&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
 <t tx="123.20210317191027.1">   &lt;section&gt;
+   &lt;h3&gt;上蓋&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="" height="315" src="./../images/零件2.png" width="501"/&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
 <t tx="123.20210317191028.1">   &lt;section&gt;
+   &lt;h3&gt;夾頭底座&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="" height="198" src="./../images/夾頭1.png" width="501"/&gt;&lt;/p&gt;
     &lt;/section&gt;</t>
 <t tx="123.20210317191029.1">   &lt;section&gt;
+   &lt;h3&gt;夾頭&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="" height="350" src="./../images/6夾頭.png" width="501"/&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
 <t tx="123.20210317191029.2">   &lt;section&gt;
+   &lt;h3&gt;套圈&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="" height="178" src="./../images/套圈 2021-03-15 225545.png" width="501"/&gt;&lt;/p&gt;
    &lt;/section&gt;
 &lt;/section&gt;</t>
 <t tx="123.20210317212617.1">   &lt;section&gt;
+   &lt;h3&gt;齒盤&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="" height="195" src="./../images/齒盤.png" width="501"/&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
 <t tx="leo.20180902120523.1"></t>
@@ -234,28 +241,24 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170535.1"> &lt;section&gt;
-            &lt;h1&gt;協同產品設計實習&lt;/h1&gt;
-            &lt;h2&gt;stage1-bg7&lt;/h2&gt;
-            &lt;p&gt;
-                &lt;small&gt;Created by &lt;a href="https://github.com/40823236/stage1-bg7"&gt;40823236&lt;/a&gt; and &lt;a href="https://github.com/40823212/stage1-bg7"&gt;40823212&lt;/a&gt;&lt;/small&gt;
-            &lt;/p&gt;
-        &lt;/section&gt;</t>
+    &lt;h1&gt;協同產品設計實習&lt;/h1&gt;
+    &lt;h2&gt;stage1-bg7&lt;/h2&gt;
+&lt;p&gt;&lt;small&gt;Created by &lt;a href="https://github.com/40823236/stage1-bg7"&gt;40823236&lt;/a&gt; and &lt;a href="https://github.com/40823212/stage1-bg7"&gt;40823212&lt;/a&gt;&lt;/small&gt; &lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200818170636.1">&lt;section&gt;
-            &lt;h2&gt;CNC 三爪夾頭&lt;/h2&gt;
-            &lt;p&gt;&lt;img alt="" height="226" src="./../images/reveal.jpg" width="274"/&gt;&lt;/p&gt;
-            &lt;h4&gt;動機:不用對中心很方便。&lt;/h4&gt;
-        &lt;/section&gt;
+   &lt;h2&gt;CNC 三爪夾頭&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="" height="226" src="./../images/reveal.jpg" width="274"/&gt;&lt;/p&gt;
+    &lt;h4&gt;動機:不用對中心很方便。&lt;/h4&gt;
+&lt;/section&gt;
 </t>
-<t tx="leo.20200818170725.1">  &lt;section&gt;
-        &lt;h1&gt;原理&lt;/h1&gt;
-        &lt;h2&gt;使用小T輪將把手做動的動力傳到斜齒輪，再經由螺紋移動下齒輪及夾頭。&lt;/h2&gt;
-         &lt;/section&gt;</t>
+<t tx="leo.20200818170725.1">&lt;section&gt;
+   &lt;h1&gt;原理&lt;/h1&gt;
+    &lt;h2&gt;使用小T輪將把手做動的動力傳到斜齒輪，再經由螺紋移動下齒輪及夾頭。&lt;/h2&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section&gt;
-             &lt;section&gt;
-             &lt;h2&gt;零件組合圖&lt;/h2&gt;
-             &lt;p&gt;&lt;img alt="" height="196" src="./../images/螢幕擷取畫面2 2021-03-17 180209.jpg" width="280"/&gt;&lt;/p&gt;
-             
-        &lt;section&gt;</t>
+    &lt;h2&gt;零件組合圖&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="" height="196" src="./../images/螢幕擷取畫面2 2021-03-17 180209.jpg" width="280"/&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200818171215.1">&lt;section data-auto-animate&gt;
     &lt;h2 data-id="code-title"&gt;With animations&lt;/h2&gt;
     &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"&gt;
