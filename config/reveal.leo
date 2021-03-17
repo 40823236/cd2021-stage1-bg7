@@ -69,7 +69,7 @@
    &lt;/section&gt;</t>
 <t tx="123.20210317231217.1">&lt;section&gt;
  &lt;h2&gt;Reveal製作&lt;/h2&gt;
-     &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jvV-qoEtGEY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;
+    
 &lt;/section&gt;</t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.2"></t>
