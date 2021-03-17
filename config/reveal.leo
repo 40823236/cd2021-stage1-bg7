@@ -258,11 +258,11 @@ vertical: body pane on the botton</t>
            &lt;h2&gt;使用SOLIDWORKS 2017模擬&lt;/h2&gt;
             &lt;h5&gt;三爪夾頭模擬&lt;/h5&gt;
          &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/fXdkvxeqiGM" width="520"&gt;&lt;/iframe&gt;&lt;/p&gt;
-         &lt;/section&gt;</t>
+ &lt;/section&gt;</t>
 <t tx="leo.20200818171244.1">&lt;section&gt;
             &lt;h2&gt;PDF檔案&lt;/h2&gt;
         
-        &lt;/section&gt;</t>
+&lt;/section&gt;</t>
 <t tx="leo.20200818171312.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
     &lt;h2&gt;Auto-Animate&lt;/h2&gt;
     &lt;p&gt;Automatically animate matching elements across slides with &lt;a href="https://revealjs.com/auto-animate/"&gt;Auto-Animate&lt;/a&gt;.&lt;/p&gt;
