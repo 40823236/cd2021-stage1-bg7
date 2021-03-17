@@ -258,7 +258,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818171138.1">&lt;section&gt;
     &lt;h2&gt;零件組合圖&lt;/h2&gt;
 &lt;p&gt;&lt;img alt="" height="196" src="./../images/螢幕擷取畫面2 2021-03-17 180209.jpg" width="280"/&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+   &lt;/section&gt;</t>
 <t tx="leo.20200818171215.1">&lt;section data-auto-animate&gt;
     &lt;h2 data-id="code-title"&gt;With animations&lt;/h2&gt;
     &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"&gt;
