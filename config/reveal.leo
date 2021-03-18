@@ -68,7 +68,7 @@
 &lt;p&gt;&lt;img alt="" height="279" src="./../images/Print 3D 2021_3_11 下午 04_51_23.png" width="520"/&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
 <t tx="123.20210317231217.1">&lt;section&gt;
- &lt;h2&gt;Reveal製作&lt;/h2&gt;
+ &lt;h2&gt;製作Reveal&lt;/h2&gt;
  &lt;/section&gt;</t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.2"></t>
