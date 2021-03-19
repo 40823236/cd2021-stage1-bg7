@@ -220,7 +220,10 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
    &lt;h1&gt;原理&lt;/h1&gt;
-    &lt;h2&gt;使用小T輪將把手做動的動力傳到斜齒輪，再經由螺紋移動下齒輪及夾頭。&lt;/h2&gt;
+    &lt;h2&gt;夾頭底座的齒條和齒盤導軌嚙合,齒盤的斜面與斜
+齒輪嚙合,當斜齒輪轉動時,帶動齒盤轉動,齒盤
+背面的導軌也跟著轉動,讓夾頭底座的齒條跟著導
+軌向中心移動,進而夾持工件。&lt;/h2&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section&gt;
    &lt;section&gt;
@@ -230,7 +233,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818171215.1"> &lt;section&gt;
            &lt;h2&gt;使用SOLIDWORKS 2017模擬&lt;/h2&gt;
             &lt;h5&gt;三爪夾頭模擬&lt;/h5&gt;
-      &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/atMQNBh89T8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;
+      &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/XO1bYNid6lY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818171244.1">&lt;section&gt;
             &lt;h2&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="https://drive.google.com/file/d/1gVfgLp61cqWdRhyJSSxwogAJJQyiCfsT/view?usp=sharing"&gt;PDF報告&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/h2&gt;
